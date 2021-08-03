@@ -1,11 +1,12 @@
 ## Hi there 👋
-
-
+- 🔭 I’m currently working on React projects.
+- 👯 I’m looking to collaborate on Front-end Development projects.
+- ⚡ Fun fact: When I have a free time, I like to free up space on my phone and watch my plants grow(why not?!).
 <!--
 **Tongkorn/Tongkorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🔭 I’m currently working on React projects.
 - 🔭 I’m currently working on React projects.
 - 🌱 I’m currently learning React and Basic Backend Development.
 - 👯 I’m looking to collaborate on Frontend Development projects

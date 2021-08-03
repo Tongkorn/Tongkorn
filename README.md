@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Give a support - Buy me a coffee :gift_heart:
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tongkornp)
 -->
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tongkorn&show_icons=true&count_private=true,&hide=stars,issues)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tongkorn&theme=default)
 
-## Give a support - Buy me a coffee :gift_heart:
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tongkornp)
 
 

@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on React projects.
 - 👯 I’m looking to collaborate on Front-end Development projects.
-- ⚡ Fun fact: When I have a free time, I like to free up space on my phone and watch my plants grow.
+- ⚡ Fun fact: I like to free up space on my phone and watch my plants grow.
 <!--
 **Tongkorn/Tongkorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
